@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Webinar_8\Task_56_\bin\Debug\net6.0\Task_56_.exe
+C:\Users\user\Desktop\Webinar_8\Task_56_\bin\Debug\net6.0\Task_56_.deps.json
+C:\Users\user\Desktop\Webinar_8\Task_56_\bin\Debug\net6.0\Task_56_.runtimeconfig.json
+C:\Users\user\Desktop\Webinar_8\Task_56_\bin\Debug\net6.0\Task_56_.dll
+C:\Users\user\Desktop\Webinar_8\Task_56_\bin\Debug\net6.0\Task_56_.pdb
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.AssemblyInfo.cs
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.dll
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\refint\Task_56_.dll
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.pdb
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\Task_56_.genruntimeconfig.cache
+C:\Users\user\Desktop\Webinar_8\Task_56_\obj\Debug\net6.0\ref\Task_56_.dll
